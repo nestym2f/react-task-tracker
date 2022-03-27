@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "meeting with payroc",
+      "day": "Abril 10 at 10:00pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Enriques's birthday",
+      "day": "Abril 26 at 8:00pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Go to Gym",
+      "day": "March 24 at 8am",
+      "reminder": true
+    },
+    {
+      "id": 9,
+      "text": "Go to Cristo",
+      "day": "March 24 at 11am",
+      "reminder": true
+    },
+    {
+      "id": 15,
+      "text": "Work",
+      "day": "March 24 at 12pm",
+      "reminder": false
+    },
+    {
+      "text": "newtask",
+      "day": "newtask",
+      "reminder": true,
+      "id": 16
+    }
+  ]
+}
